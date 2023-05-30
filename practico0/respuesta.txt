@@ -1,0 +1,32 @@
+1.
+a. resta.js
+¿Qué valor devuelve su programa si el minuendo es 10 y el sustraendo 2?
+Devuelve 8.
+
+b. multiplicacion.js
+¿Qué valor devuelve su programa si los números son 2 *17 * 6?
+Devuelve 204.
+--------------------------------------------------------------------------------
+2. areaRectangulo.js
+a. ¿Cuál es el área de un rectángulo de base 5cm y altura 3cm?
+El área del rectángulo es de 15cm.
+
+b. ¿Cuál es el área de un rectángulo de base 12.5cm y altura 5.3cm?
+El área del rectángulo es 66.25cm
+--------------------------------------------------------------------------------
+3. conversionGrados.js
+a. ¿Cuántos grados C son 50 F?
+50 grados Farenheit son 10 grados Celsius.
+
+b. ¿Cuántos grados C son 75 F?
+75 grados Farenheit son 23.88888888888889 grados Celsius.
+----------------------------------------------------------------------------------
+4. promedio3.js
+a. ¿Cuál es el promedio entre 5, 7 y 9?
+El promedio es 7.
+
+b. ¿Cuál es el promedio entre -2 , -3, -8?
+El promedio es -4.333333333333333.
+
+c. ¿Cuál es el promedio entre -1.2, 5.3, -3.3?
+el promedio es 0.2666666666666666.
